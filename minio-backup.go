@@ -1,7 +1,6 @@
 package main
 
 import (
-        "fmt"
         toml "github.com/BurntSushi/toml"
         minio "github.com/minio/minio-go"
         pzip "github.com/pierrre/archivefile/zip"
